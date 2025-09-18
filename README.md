@@ -3,6 +3,6 @@
 
 ## Team Members
 
-
-
 - b: Backend Developer, expert in Kafka.
+- a: Frontend Developer, loves Vue.js.
+
